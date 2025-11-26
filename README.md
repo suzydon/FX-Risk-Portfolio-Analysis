@@ -68,6 +68,16 @@ Four scenarios tested:
 
 Results show hedged portfolio reduces losses by 30-40% in adverse scenarios.
 
+![](images/fx_rate_movements.png)
+![](images/fx_correlation_matrix.png)
+![](images/fx_var_analysis.png)
+![](images/fx_risk_decomposition.png)
+
+![](images/fx_hedging_strategy.png)
+![](images/fx_stress_scenarios.png)
+
+
+
 ## Technical Stack
 
 - Python 3.8+
